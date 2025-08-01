@@ -21,3 +21,6 @@ concentrating in **Artificial Intelligence** and **Data Science**.
 ![Regex](https://img.shields.io/badge/Regex-E10098?style=for-the-badge&logo=semantic-release&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### LinkedIn
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-USERNAME)
